@@ -1,3 +1,2 @@
 # DasSpielV2
 
-multithreaded
